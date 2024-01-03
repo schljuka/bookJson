@@ -158,6 +158,10 @@
     {
       "id": 5,
       "naziv": "Romansa"
+    },
+     {
+      "id": 6,
+      "naziv": "SF"
     }
   ],
   "profile": {
