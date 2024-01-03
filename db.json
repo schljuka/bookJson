@@ -2,7 +2,7 @@
   "knjige": [
     {
       "id": 1,
-      "naslov": "Na Drini Ćuprija",
+      "naslov": "Na Drini Cuprija",
       "pisacID": 1,
       "zanrovi": [1, 2],
       "price": {
